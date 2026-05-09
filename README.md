@@ -1,6 +1,6 @@
 # Hi there, I'm Oluwasegun Coker 👋
 
-## Full-Stack Developer | React • TypeScript • Flutter • Web3
+## Full-Stack Developer | React • TypeScript • Flutter • Node.js
 
 I build scalable web and mobile applications with clean code and modern technologies. Passionate about creating solutions that solve real-world problems.
 
@@ -8,16 +8,16 @@ I build scalable web and mobile applications with clean code and modern technolo
 
 - **Web Development:** React, Next.js, TypeScript, Node.js, WordPress
 - **Mobile Development:** Flutter, cross-platform apps
-- **Blockchain:** Web3, Smart Contracts, dApp development
-- **Backend:** Python, REST APIs, Database Design
+- **Backend:** Python, REST APIs, Database Design, Express.js
 - **DevOps:** Git, CI/CD, Cloud deployment
+- **UI/UX:** Responsive Design, Tailwind CSS, Material UI
 
 ### 💼 Featured Projects
 
-#### 🎥 [dVideo](https://github.com/Cokeroluwasegun/dvideo)
-Decentralized video sharing platform built with blockchain technology
-- **Tech:** Ethereum, IPFS, React, Web3.js
-- Enables censorship-resistant video hosting on the blockchain
+#### 💼 [BizyFlow](https://github.com/Cokeroluwasegun/bizyflow)
+Business workflow management system
+- **Tech:** TypeScript, Modern web stack
+- Streamlines business operations and team collaboration
 
 #### 🎵 [Music App Demo](https://github.com/Cokeroluwasegun/musicAppDemoFlutter)
 Full-featured music streaming application
@@ -29,10 +29,10 @@ Security vulnerability scanner and penetration testing tool
 - **Tech:** Python, HTML
 - Automated security assessment for web applications
 
-#### 💼 [BizyFlow](https://github.com/Cokeroluwasegun/bizyflow)
-Business workflow management system
-- **Tech:** TypeScript, Modern web stack
-- Streamlines business operations and team collaboration
+#### 🎯 [Project Scar](https://github.com/Cokeroluwasegun/projectScar)
+Python-based application development project
+- **Tech:** Python
+- Demonstrates clean code architecture and best practices
 
 ### 📊 GitHub Stats
 
@@ -50,19 +50,19 @@ Business workflow management system
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Web3](https://img.shields.io/badge/-Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### 🌟 What I'm Currently Working On
 
-- 🔭 Building innovative Web3 applications
+- 🔭 Building modern full-stack applications with React and Node.js
 - 🌱 Expanding my skills in cloud architecture and DevOps
 - 💡 Contributing to open-source projects
-- 📱 Developing cross-platform mobile solutions
+- 📱 Developing cross-platform mobile solutions with Flutter
 
 ### 💬 Let's Connect
 
-I'm available for freelance projects and collaborations. Whether you need a full-stack web application, a mobile app, or blockchain integration, I can help bring your ideas to life.
+I'm available for freelance projects and collaborations. Whether you need a full-stack web application, a mobile app, or custom software solutions, I can help bring your ideas to life.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwasegun-coker)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:oluwaseguncoker00@gmail.com)
