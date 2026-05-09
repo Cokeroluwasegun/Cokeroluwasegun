@@ -1,16 +1,80 @@
-## Hi there 👋
+# Hi there, I'm Oluwasegun Coker 👋
 
-<!--
-**Cokeroluwasegun/Cokeroluwasegun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full-Stack Developer | React • TypeScript • Flutter • Web3
 
-Here are some ideas to get you started:
+I build scalable web and mobile applications with clean code and modern technologies. Passionate about creating solutions that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+
+- **Web Development:** React, Next.js, TypeScript, Node.js, WordPress
+- **Mobile Development:** Flutter, cross-platform apps
+- **Blockchain:** Web3, Smart Contracts, dApp development
+- **Backend:** Python, REST APIs, Database Design
+- **DevOps:** Git, CI/CD, Cloud deployment
+
+### 💼 Featured Projects
+
+#### 🎥 [dVideo](https://github.com/Cokeroluwasegun/dvideo)
+Decentralized video sharing platform built with blockchain technology
+- **Tech:** Ethereum, IPFS, React, Web3.js
+- Enables censorship-resistant video hosting on the blockchain
+
+#### 🎵 [Music App Demo](https://github.com/Cokeroluwasegun/musicAppDemoFlutter)
+Full-featured music streaming application
+- **Tech:** Flutter, Dart
+- Cross-platform mobile app with modern UI/UX
+
+#### 🔒 [VulnX](https://github.com/Cokeroluwasegun/vulnx)
+Security vulnerability scanner and penetration testing tool
+- **Tech:** Python, HTML
+- Automated security assessment for web applications
+
+#### 💼 [BizyFlow](https://github.com/Cokeroluwasegun/bizyflow)
+Business workflow management system
+- **Tech:** TypeScript, Modern web stack
+- Streamlines business operations and team collaboration
+
+### 📊 GitHub Stats
+
+![Oluwasegun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cokeroluwasegun&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cokeroluwasegun&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
+
+### 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Web3](https://img.shields.io/badge/-Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 🌟 What I'm Currently Working On
+
+- 🔭 Building innovative Web3 applications
+- 🌱 Expanding my skills in cloud architecture and DevOps
+- 💡 Contributing to open-source projects
+- 📱 Developing cross-platform mobile solutions
+
+### 💬 Let's Connect
+
+I'm available for freelance projects and collaborations. Whether you need a full-stack web application, a mobile app, or blockchain integration, I can help bring your ideas to life.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwasegun-coker)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:oluwaseguncoker00@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://tinyurl.com/CokersPortfolio)
+
+### 📈 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+💼 **Open to Freelance Opportunities** | 🌍 Based in Lagos, Nigeria | ⚡ Building the future, one commit at a time
+
+![Profile Views](https://komarev.com/ghpvc/?username=Cokeroluwasegun&color=brightgreen&style=flat-square)
